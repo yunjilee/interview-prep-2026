@@ -1,29 +1,11 @@
-# Week 2 — Sliding Window & Stack
+# Week 2 — Two Pointers & Sliding Window
 
-## Weekly Accountability Tracker
+## Two Pointers
 
-| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Hours studied** | | | | | | | | |
-| **DSA problems solved** | | | | | | | | |
-| **Problems re-solved** | | | | | | | | |
-| **System design hours** | | | | | | | | |
-| **Behavioral prep** | | | | | | | | |
-| **Mock interview?** | | | | | | | | |
+### 1. Valid Palindrome (Easy)
 
-> **Week 2 goal:** ___  |  **Confidence (1–5):** ___
-
----
-
-
-## DSA Journal
-
-<!-- Copy this template for each problem you solve -->
-
-### Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -32,10 +14,10 @@
 
 ---
 
-### Problem 2
+### 2. Two Sum II (Med)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -44,10 +26,10 @@
 
 ---
 
-### Problem 3
+### 3. 3Sum (Med)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -56,16 +38,78 @@
 
 ---
 
-## System Design Journal
+### 4. Container With Most Water (Med)
 
-### SD Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
-| **Key requirements** | |
-| **Initial approach** | |
-| **Final design** | |
-| **Mistake / gap** | |
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## Sliding Window
+
+### 5. Best Time to Buy & Sell Stock (Easy)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 6. Longest Substring Without Repeating (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 7. Longest Repeating Char Replacement (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 8. Permutation in String (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Dropbox
+
+### Dropbox (Easy)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
 | **Interview-ready?** | ⬜ Yes / ⬜ No |
 
 ---

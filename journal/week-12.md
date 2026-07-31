@@ -1,29 +1,11 @@
-# Week 12 — Final Polish & Confidence Building
+# Week 12 — Final Polish & Confidence
 
-## Weekly Accountability Tracker
+## Final Re-solves (no hints)
 
-| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Hours studied** | | | | | | | | |
-| **DSA problems solved** | | | | | | | | |
-| **Problems re-solved** | | | | | | | | |
-| **System design hours** | | | | | | | | |
-| **Behavioral prep** | | | | | | | | |
-| **Mock interview?** | | | | | | | | |
+### Re-solve #1: ___
 
-> **Week 12 goal:** ___  |  **Confidence (1–5):** ___
-
----
-
-
-## DSA Journal
-
-<!-- Copy this template for each problem you solve -->
-
-### Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -32,10 +14,10 @@
 
 ---
 
-### Problem 2
+### Re-solve #2: ___
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -44,10 +26,10 @@
 
 ---
 
-### Problem 3
+### Re-solve #3: ___
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -56,16 +38,40 @@
 
 ---
 
-## System Design Journal
+## Timed Mocks
 
-### SD Problem 1
+### Timed coding mock: Medium #1 (25 min)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
-| **Key requirements** | |
-| **Initial approach** | |
-| **Final design** | |
-| **Mistake / gap** | |
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Timed coding mock: Medium #2 (25 min)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Timed SD mock: Hard (35 min)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
 | **Interview-ready?** | ⬜ Yes / ⬜ No |
 
 ---

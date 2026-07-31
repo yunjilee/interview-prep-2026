@@ -1,29 +1,11 @@
-# Week 11 — Mixed Practice & Weak-Spot Drilling
+# Week 11 — Timed Practice & Mocks
 
-## Weekly Accountability Tracker
+## Timed DSA Practice
 
-| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Hours studied** | | | | | | | | |
-| **DSA problems solved** | | | | | | | | |
-| **Problems re-solved** | | | | | | | | |
-| **System design hours** | | | | | | | | |
-| **Behavioral prep** | | | | | | | | |
-| **Mock interview?** | | | | | | | | |
+### Timed Medium #1 (25 min) — topic: ___
 
-> **Week 11 goal:** ___  |  **Confidence (1–5):** ___
-
----
-
-
-## DSA Journal
-
-<!-- Copy this template for each problem you solve -->
-
-### Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -32,10 +14,10 @@
 
 ---
 
-### Problem 2
+### Timed Medium #2 (25 min) — topic: ___
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -44,10 +26,10 @@
 
 ---
 
-### Problem 3
+### Timed Medium #3 (25 min) — topic: ___
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -56,16 +38,76 @@
 
 ---
 
-## System Design Journal
+### Timed Medium #4 (25 min) — topic: ___
 
-### SD Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
-| **Key requirements** | |
-| **Initial approach** | |
-| **Final design** | |
-| **Mistake / gap** | |
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Timed Hard #1 (40 min) — topic: ___
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Timed Medium #5 (25 min) — topic: ___
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Timed Medium #6 (25 min) — topic: ___
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Web Crawler & FB News Feed
+
+### Web Crawler (Hard) — timed 35 min
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### FB News Feed (Medium) — timed 35 min
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
 | **Interview-ready?** | ⬜ Yes / ⬜ No |
 
 ---

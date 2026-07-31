@@ -1,29 +1,11 @@
-# Week 8 — Dynamic Programming (1-D & 2-D)
+# Week 8 — DP Essentials
 
-## Weekly Accountability Tracker
+## 1-D Dynamic Programming
 
-| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Hours studied** | | | | | | | | |
-| **DSA problems solved** | | | | | | | | |
-| **Problems re-solved** | | | | | | | | |
-| **System design hours** | | | | | | | | |
-| **Behavioral prep** | | | | | | | | |
-| **Mock interview?** | | | | | | | | |
+### 1. Climbing Stairs (Easy)
 
-> **Week 8 goal:** ___  |  **Confidence (1–5):** ___
-
----
-
-
-## DSA Journal
-
-<!-- Copy this template for each problem you solve -->
-
-### Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -32,10 +14,10 @@
 
 ---
 
-### Problem 2
+### 2. House Robber (Med)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -44,10 +26,10 @@
 
 ---
 
-### Problem 3
+### 3. Coin Change (Med)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -56,16 +38,90 @@
 
 ---
 
-## System Design Journal
+### 4. Word Break (Med)
 
-### SD Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
-| **Key requirements** | |
-| **Initial approach** | |
-| **Final design** | |
-| **Mistake / gap** | |
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 5. Longest Increasing Subsequence (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 6. Longest Palindromic Substring (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## 2-D Dynamic Programming
+
+### 7. Unique Paths (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 8. Longest Common Subsequence (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Uber & Job Scheduler
+
+### Uber (Hard)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Job Scheduler (Medium)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
 | **Interview-ready?** | ⬜ Yes / ⬜ No |
 
 ---

@@ -1,29 +1,11 @@
-# Week 5 — Heap / Priority Queue & Tries
+# Week 5 — Trees (Med) & Heap
 
-## Weekly Accountability Tracker
+## Trees (continued)
 
-| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
-|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Hours studied** | | | | | | | | |
-| **DSA problems solved** | | | | | | | | |
-| **Problems re-solved** | | | | | | | | |
-| **System design hours** | | | | | | | | |
-| **Behavioral prep** | | | | | | | | |
-| **Mock interview?** | | | | | | | | |
+### 1. BFS Level Order Traversal (Med)
 
-> **Week 5 goal:** ___  |  **Confidence (1–5):** ___
-
----
-
-
-## DSA Journal
-
-<!-- Copy this template for each problem you solve -->
-
-### Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -32,10 +14,10 @@
 
 ---
 
-### Problem 2
+### 2. Validate BST (Med)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -44,10 +26,10 @@
 
 ---
 
-### Problem 3
+### 3. Kth Smallest Element in BST (Med)
+
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
 | **Pattern** | |
 | **Initial idea** | |
 | **Optimal solution** | |
@@ -56,16 +38,90 @@
 
 ---
 
-## System Design Journal
+### 4. Serialize and Deserialize Binary Tree (Hard)
 
-### SD Problem 1
 | Field | Notes |
 |-------|-------|
-| **Problem** | |
-| **Key requirements** | |
-| **Initial approach** | |
-| **Final design** | |
-| **Mistake / gap** | |
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## Heap / Priority Queue
+
+### 5. Kth Largest Element (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 6. Last Stone Weight (Easy)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 7. K Closest Points to Origin (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 8. Task Scheduler (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Instagram & WhatsApp
+
+### Instagram (Medium)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### WhatsApp (Medium)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
 | **Interview-ready?** | ⬜ Yes / ⬜ No |
 
 ---
