@@ -7,7 +7,7 @@
 | **Hours studied** | | | | | | | | |
 | **DSA problems solved** | | | | | | | | |
 | **Problems re-solved** | | | | | | | | |
-| **SD time (hrs)** | | | | | | | | |
+| **System design hours** | | | | | | | | |
 | **Behavioral prep** | | | | | | | | |
 | **Mock interview?** | | | | | | | | |
 
