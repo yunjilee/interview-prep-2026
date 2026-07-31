@@ -1,7 +1,8 @@
 # Senior SWE Interview Prep — 12-Week Plan
 
-> **Commitment:** 1–2 hrs/day | **Goal:** Top-company senior offers by Oct 2026  
-> **Start:** Aug 4, 2026 | **End:** Oct 26, 2026
+> **Commitment:** 1–1.5 hrs/day | **Goal:** Top-company senior offers by Oct 2026  
+> **Start:** Aug 4, 2026 | **End:** Oct 26, 2026  
+> **Target:** ~100 problems (Blind 75 + high-value extras), 15+ SD problems, 8 STAR stories
 
 ---
 
@@ -9,10 +10,11 @@
 
 | Area | Primary Resource | Supplement |
 |------|-----------------|------------|
-| DSA | [NeetCode 150](https://neetcode.io/practice) + [NeetCode YouTube](https://youtube.com/@NeetCode) | LeetCode for extra practice |
-| System Design | [Hello Interview — In a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) | [Hello Interview Problem Breakdowns](https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare) |
-| Behavioral | STAR method + 8–10 prepared stories | Amazon LP examples |
-| Mock Interviews | [Pramp](https://pramp.com) or peer mocks | Hello Interview Guided Practice |
+| DSA | [NeetCode 150](https://neetcode.io/practice) + [NeetCode YouTube](https://youtube.com/@NeetCode) | [Grind 75](https://www.techinterviewhandbook.org/grind75) for tracking |
+| System Design | [Hello Interview — In a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) | [Problem Breakdowns](https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare) |
+| Behavioral | [BEHAVIORAL_PREP.md](./BEHAVIORAL_PREP.md) — structured templates | Amazon LP examples |
+| Mock Interviews | [Pramp](https://pramp.com) or peer mocks (target: 5+ total) | Hello Interview Guided Practice |
+| Patterns | [15 LC Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) | NeetCode pattern cheat sheet |
 
 ---
 
@@ -20,182 +22,225 @@
 
 | Day | Focus | Time |
 |-----|-------|------|
-| **Mon–Thu** | DSA (solve 2–3 problems from weekly topic) | 60–75 min |
-| **Fri** | System Design (read + practice) | 60–90 min |
-| **Sat** | System Design (problem breakdown / mock) | 60–90 min |
-| **Sun** | Review week's problems + behavioral prep | 45–60 min |
+| **Mon–Thu** | DSA — max 2 problems/day | 60–90 min |
+| **Fri** | System Design (read theory or practice problem) | 60–90 min |
+| **Sat** | System Design (problem breakdown / timed mock) | 60–90 min |
+| **Sun** | Review failed problems + behavioral prep | 45–60 min |
 
 ---
 
-## Phase 1: Foundations (Weeks 1–4)
+## Problem-Solving Protocol (for every problem)
 
-### Week 1 — Arrays, Hashing & Two Pointers
+| Step | Time | Action |
+|------|------|--------|
+| 1 | 0–5 min | Read problem, clarify constraints, write examples |
+| 2 | 5–20 min | Attempt solution — think out loud |
+| 3 | 20–25 min | If stuck → read hint only (not full solution) |
+| 4 | 25–35 min | If still stuck → study solution, understand the *pattern* |
+| 5 | After | Close solution, **re-implement from memory** |
+| 6 | Day 3, 7 | Re-solve flagged problems (spaced repetition) |
+
+---
+
+## Phase 1: Foundations — Rebuild Muscle Memory (Weeks 1–4)
+
+> Week 1 is intentionally easy. You're relearning how to think about problems.
+
+### Week 1 — Warm-Up: Arrays & Hashing (Easy focus)
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Arrays & Hashing #1–3 (Contains Duplicate, Valid Anagram, Two Sum) | ⬜ |
-| Tue | NeetCode: Arrays & Hashing #4–6 (Group Anagrams, Top K Frequent, Encode/Decode) | ⬜ |
-| Wed | NeetCode: Arrays & Hashing #7–9 (Product of Array, Longest Consecutive, Valid Sudoku) | ⬜ |
-| Thu | NeetCode: Two Pointers — all 5 (Valid Palindrome, 3Sum, Container With Most Water, etc.) | ⬜ |
+| Mon | Arrays: Contains Duplicate, Valid Anagram *(both Easy)* | ⬜ |
+| Tue | Arrays: Two Sum, Anagram Groups *(Easy + Med)* | ⬜ |
+| Wed | Arrays: Top K Frequent Elements, Encode/Decode Strings *(Med)* | ⬜ |
+| Thu | Arrays: Product of Array Except Self, Longest Consecutive *(Med)* | ⬜ |
 | Fri | SD: Read [Delivery Framework](https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery) + [Core Concepts](https://www.hellointerview.com/learn/system-design/in-a-hurry/core-concepts) | ⬜ |
 | Sat | SD: Practice **Bitly** (Easy) — sketch on Excalidraw, then read answer key | ⬜ |
-| Sun | Review all week's problems (re-solve any you struggled with). Draft 2 STAR stories | ⬜ |
+| Sun | Review any struggled problems. Read [15 LC Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) overview | ⬜ |
 
-### Week 2 — Sliding Window & Stack
+### Week 2 — Two Pointers & Sliding Window
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Sliding Window #1–3 (Best Time to Buy Stock, Longest Substring, Longest Repeating) | ⬜ |
-| Tue | NeetCode: Sliding Window #4–6 (Permutation in String, Min Window Substring, Sliding Window Max) | ⬜ |
-| Wed | NeetCode: Stack #1–3 (Valid Parentheses, Min Stack, Evaluate RPN) | ⬜ |
-| Thu | NeetCode: Stack #4–6 (Generate Parentheses, Daily Temps, Car Fleet) | ⬜ |
+| Mon | Two Pointers: Valid Palindrome, Two Sum II *(Easy + Med)* | ⬜ |
+| Tue | Two Pointers: 3Sum, Container With Most Water *(Med)* | ⬜ |
+| Wed | Sliding Window: Best Time to Buy Stock, Longest Substring Without Repeating *(Easy + Med)* | ⬜ |
+| Thu | Sliding Window: Longest Repeating Char Replacement, Permutation in String *(Med)* | ⬜ |
 | Fri | SD: Read [Key Technologies](https://www.hellointerview.com/learn/system-design/in-a-hurry/key-technologies) | ⬜ |
 | Sat | SD: Practice **Dropbox** (Easy) | ⬜ |
-| Sun | Review + draft 2 more STAR stories | ⬜ |
+| Sun | Review + re-solve 2 hardest problems from Weeks 1–2. Draft 2 STAR stories | ⬜ |
 
-### Week 3 — Binary Search & Linked List
+### Week 3 — Stack & Binary Search
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Binary Search #1–4 (Binary Search, 2D Matrix, Koko Eating, Min Rotated) | ⬜ |
-| Tue | NeetCode: Binary Search #5–7 (Time Based KV, Median of Two Sorted Arrays, Search Rotated) | ⬜ |
-| Wed | NeetCode: Linked List #1–4 (Reverse, Merge Two, Reorder, Remove Nth) | ⬜ |
-| Thu | NeetCode: Linked List #5–8 (Copy Random, Add Two Numbers, Linked List Cycle, LRU Cache) | ⬜ |
+| Mon | Stack: Valid Parentheses, Min Stack *(Easy + Med)* | ⬜ |
+| Tue | Stack: Evaluate RPN, Generate Parentheses *(Med)* | ⬜ |
+| Wed | Binary Search: Binary Search, Search 2D Matrix *(Easy + Med)* | ⬜ |
+| Thu | Binary Search: Koko Eating Bananas, Find Min in Rotated Sorted *(Med)* | ⬜ |
 | Fri | SD: Read [Common Patterns](https://www.hellointerview.com/learn/system-design/in-a-hurry/patterns) | ⬜ |
 | Sat | SD: Practice **Yelp** (Easy) | ⬜ |
-| Sun | Review + NeetCode: Linked List #9–11 (remaining) | ⬜ |
+| Sun | Review + re-solve flagged problems. Draft 2 more STAR stories (total: 4) | ⬜ |
 
-### Week 4 — Trees (Part 1)
+### Week 4 — Linked List & Trees (Easy/Med)
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Trees #1–4 (Invert, Max Depth, Same Tree, Subtree) | ⬜ |
-| Tue | NeetCode: Trees #5–8 (Lowest Common Ancestor, BFS Level Order, Right Side View, Count Good Nodes) | ⬜ |
-| Wed | NeetCode: Trees #9–12 (Validate BST, Kth Smallest, BST from Preorder, Serialize/Deserialize) | ⬜ |
-| Thu | NeetCode: Trees #13–15 (remaining) | ⬜ |
-| Fri | SD: Read [Scaling & Databases deep-dive](https://www.hellointerview.com/learn/system-design/in-a-hurry/core-concepts) (re-read with focus on sharding, replication, indexing) | ⬜ |
+| Mon | Linked List: Reverse Linked List, Merge Two Sorted *(Easy)* | ⬜ |
+| Tue | Linked List: Linked List Cycle, Reorder List *(Easy + Med)* | ⬜ |
+| Wed | Trees: Invert Binary Tree, Max Depth, Same Tree *(all Easy)* | ⬜ |
+| Thu | Trees: Subtree of Another Tree, Lowest Common Ancestor *(Easy + Med)* | ⬜ |
+| Fri | SD: Re-read Core Concepts (focus: sharding, replication, CAP theorem) | ⬜ |
 | Sat | SD: Practice **Ticketmaster** (Medium) | ⬜ |
-| Sun | Review all Phase 1. Identify weak areas. Refine STAR stories (aim for 6 total) | ⬜ |
+| Sun | Review Phase 1. Identify weak patterns. Refine STAR stories (target: 6) | ⬜ |
 
 ---
 
-## Phase 2: Intermediate (Weeks 5–8)
+## Phase 2: Core Patterns (Weeks 5–8)
 
-### Week 5 — Heap / Priority Queue & Tries
+### Week 5 — Trees (Med) & Heap
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Heap #1–4 (Kth Largest in Stream, Last Stone Weight, K Closest Points, Task Scheduler) | ⬜ |
-| Tue | NeetCode: Heap #5–7 (Design Twitter, Find Median, remaining) | ⬜ |
-| Wed | NeetCode: Tries — all 3 (Implement Trie, Word Search II, Design Add Search Words) | ⬜ |
-| Thu | Re-solve 3–4 hardest problems from Weeks 1–4 | ⬜ |
-| Fri | SD: Practice **Instagram** (Medium) — full 45-min timed mock | ⬜ |
+| Mon | Trees: BFS Level Order, Validate BST *(Med)* | ⬜ |
+| Tue | Trees: Kth Smallest in BST, Serialize/Deserialize *(Med + Hard)* | ⬜ |
+| Wed | Heap: Kth Largest Element, Last Stone Weight *(Med + Easy)* | ⬜ |
+| Thu | Heap: K Closest Points, Task Scheduler *(Med)* | ⬜ |
+| Fri | SD: Practice **Instagram** (Medium) — timed 45 min | ⬜ |
 | Sat | SD: Practice **WhatsApp** (Medium) | ⬜ |
-| Sun | Review + 2 more STAR stories (target: 8 total) | ⬜ |
+| Sun | Review + re-solve flagged. Draft 2 more STAR stories (target: 8) | ⬜ |
 
-### Week 6 — Graphs
+### Week 6 — Graphs (HIGH PRIORITY)
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Graphs #1–4 (Number of Islands, Clone Graph, Pacific Atlantic, Course Schedule) | ⬜ |
-| Tue | NeetCode: Graphs #5–8 (Course Schedule II, Graph Valid Tree, Connected Components, Rotting Oranges) | ⬜ |
-| Wed | NeetCode: Graphs #9–13 (Walls & Gates, Surrounded Regions, Word Ladder, remaining) | ⬜ |
-| Thu | NeetCode: Advanced Graphs #1–3 (Alien Dictionary, Min Cost to Connect, Network Delay Time) | ⬜ |
+| Mon | Graphs: Number of Islands, Clone Graph *(Med)* | ⬜ |
+| Tue | Graphs: Pacific Atlantic, Course Schedule *(Med)* | ⬜ |
+| Wed | Graphs: Course Schedule II, Graph Valid Tree *(Med)* | ⬜ |
+| Thu | Graphs: Rotting Oranges, Surrounded Regions *(Med)* | ⬜ |
 | Fri | SD: Practice **Rate Limiter** (Medium) | ⬜ |
 | Sat | SD: Practice **YouTube** (Medium) | ⬜ |
-| Sun | Review graphs. Re-solve 2 hard graph problems | ⬜ |
+| Sun | **🔧 POLISH DAY** — see [Polish Day Checklist](#polish-day-checklist-week-6) below | ⬜ |
 
-### Week 7 — Backtracking & 1-D DP
+### Week 7 — Backtracking & Tries
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Backtracking #1–4 (Subsets, Combination Sum, Permutations, Subsets II) | ⬜ |
-| Tue | NeetCode: Backtracking #5–7 (Combination Sum II, Word Search, Palindrome Partitioning) | ⬜ |
-| Wed | NeetCode: Backtracking #8–10 (N-Queens, Letter Combinations, remaining) | ⬜ |
-| Thu | NeetCode: 1-D DP #1–4 (Climbing Stairs, Min Cost Climbing, House Robber, House Robber II) | ⬜ |
+| Mon | Backtracking: Subsets, Combination Sum *(Med)* | ⬜ |
+| Tue | Backtracking: Permutations, Word Search *(Med)* | ⬜ |
+| Wed | Tries: Implement Trie, Design Add/Search Words *(Med)* | ⬜ |
+| Thu | Backtracking: Combination Sum II, Palindrome Partitioning *(Med)* | ⬜ |
 | Fri | SD: Practice **Notification System** (Medium) | ⬜ |
 | Sat | SD: Practice **Distributed Cache** (Medium) | ⬜ |
-| Sun | Review + NeetCode: 1-D DP #5–6 (Longest Palindromic, Palindromic Substrings) | ⬜ |
+| Sun | Review + re-solve 3 hardest graph/backtracking problems | ⬜ |
 
-### Week 8 — Dynamic Programming (1-D & 2-D)
+### Week 8 — DP Essentials (skip hard/exotic DP)
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: 1-D DP #7–10 (Decode Ways, Coin Change, Max Product Subarray, Word Break) | ⬜ |
-| Tue | NeetCode: 1-D DP #11–12 (Longest Increasing Subsequence, Partition Equal Subset Sum) | ⬜ |
-| Wed | NeetCode: 2-D DP #1–4 (Unique Paths, Longest Common Subsequence, Best Time Buy/Sell Cooldown, Coin Change II) | ⬜ |
-| Thu | NeetCode: 2-D DP #5–8 (Target Sum, Interleaving String, Edit Distance, remaining) | ⬜ |
+| Mon | 1-D DP: Climbing Stairs, House Robber *(Easy + Med)* | ⬜ |
+| Tue | 1-D DP: Coin Change, Word Break *(Med)* | ⬜ |
+| Wed | 1-D DP: Longest Increasing Subsequence, Longest Palindromic Substring *(Med)* | ⬜ |
+| Thu | 2-D DP: Unique Paths, Longest Common Subsequence *(Med)* | ⬜ |
 | Fri | SD: Practice **Uber** (Hard) | ⬜ |
 | Sat | SD: Practice **Job Scheduler** (Medium) | ⬜ |
-| Sun | Review Phase 2. Identify 5 weakest problems and re-solve | ⬜ |
+| Sun | Review Phase 2. Update journal. Identify 5 weakest problems | ⬜ |
 
 ---
 
-## Phase 3: Advanced & Mock Interviews (Weeks 9–12)
+## Phase 3: Sharpen & Mock (Weeks 9–12)
 
-### Week 9 — Advanced Graphs, Greedy & Intervals
+### Week 9 — Greedy, Intervals & Remaining Patterns
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: Advanced Graphs #4–6 (Swim in Rising Water, Cheapest Flights, remaining) | ⬜ |
-| Tue | NeetCode: Greedy #1–4 (Max Subarray, Jump Game, Jump Game II, Gas Station) | ⬜ |
-| Wed | NeetCode: Greedy #5–8 (Hand of Straights, Merge Triplets, Partition Labels, Valid Parenthesis String) | ⬜ |
-| Thu | NeetCode: Intervals — all 6 (Insert, Merge, Non-Overlapping, Meeting Rooms I & II, Min Interval) | ⬜ |
+| Mon | Greedy: Max Subarray, Jump Game *(Easy + Med)* | ⬜ |
+| Tue | Greedy: Jump Game II, Gas Station *(Med)* | ⬜ |
+| Wed | Intervals: Merge Intervals, Insert Interval *(Med)* | ⬜ |
+| Thu | Intervals: Non-Overlapping Intervals, Meeting Rooms II *(Med)* | ⬜ |
 | Fri | SD: Practice **Google Docs** (Hard) | ⬜ |
 | Sat | SD: Practice **Ad Click Aggregator** (Hard) | ⬜ |
-| Sun | Review. First full mock interview (DSA + SD) with a peer | ⬜ |
+| Sun | **Mock interview #1** (DSA + SD, 90 min, peer or Pramp) | ⬜ |
 
-### Week 10 — 2-D DP (finish), Math, Bit Manipulation
+### Week 10 — Bit Manipulation, Math & Spaced Repetition
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | NeetCode: 2-D DP #9–11 (remaining: Burst Balloons, Regular Expression, Distinct Subsequences) | ⬜ |
-| Tue | NeetCode: Math & Geometry #1–4 (Rotate Image, Spiral Matrix, Set Matrix Zeroes, Happy Number) | ⬜ |
-| Wed | NeetCode: Math & Geometry #5–8 (Plus One, Pow(x,n), Multiply Strings, Detect Squares) | ⬜ |
-| Thu | NeetCode: Bit Manipulation — all 7 (Single Number, Number of 1 Bits, Counting Bits, Reverse Bits, Missing Number, Sum of Two Ints, Reverse Integer) | ⬜ |
+| Mon | Bit Manipulation: Single Number, Number of 1 Bits, Counting Bits *(Easy)* | ⬜ |
+| Tue | Math: Rotate Image, Spiral Matrix *(Med)* | ⬜ |
+| Wed | Re-solve 2 flagged problems (trees/graphs) — timed 25 min each | ⬜ |
+| Thu | Re-solve 2 flagged problems (DP/backtracking) — timed 25 min each | ⬜ |
 | Fri | SD: Practice **Payment System** (Hard) | ⬜ |
 | Sat | SD: Practice **Metrics Monitoring** (Hard) | ⬜ |
-| Sun | Full mock interview #2 (peer or Pramp) | ⬜ |
+| Sun | **Mock interview #2** (peer or Pramp) | ⬜ |
 
-### Week 11 — Mixed Practice & Weak-Spot Drilling
+### Week 11 — Timed Practice & Mocks
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | Re-solve 4 hardest problems across all topics (pick from your "struggled" list) | ⬜ |
-| Tue | Solve 3 random LeetCode Mediums (timed: 25 min each) | ⬜ |
-| Wed | Solve 2 random LeetCode Hards (timed: 40 min each) | ⬜ |
-| Thu | Solve 3 random LeetCode Mediums (different topics) | ⬜ |
-| Fri | SD: Full timed mock — **Web Crawler** or **Robinhood** (Hard) | ⬜ |
-| Sat | SD: Full timed mock — **FB News Feed** (Medium) | ⬜ |
-| Sun | Full mock interview #3 + behavioral mock | ⬜ |
+| Mon | Timed: 2 random Mediums, 25 min each | ⬜ |
+| Tue | Timed: 2 random Mediums, 25 min each (different topics) | ⬜ |
+| Wed | Timed: 1 Hard, 40 min | ⬜ |
+| Thu | Timed: 2 random Mediums, 25 min each | ⬜ |
+| Fri | SD: Timed mock — **Web Crawler** (Hard), 35 min | ⬜ |
+| Sat | SD: Timed mock — **FB News Feed** (Medium), 35 min | ⬜ |
+| Sun | **Mock interview #3** + behavioral mock | ⬜ |
 
-### Week 12 — Final Polish & Confidence Building
+### Week 12 — Final Polish & Confidence
 | Day | Task | Done |
 |-----|------|:----:|
-| Mon | Re-solve 5 problems you previously got wrong (no hints) | ⬜ |
-| Tue | Timed coding mock: 2 mediums in 45 minutes | ⬜ |
-| Wed | Timed SD mock: pick any Hard problem, deliver in 35 min | ⬜ |
-| Thu | Behavioral: rehearse all 8–10 STAR stories aloud | ⬜ |
-| Fri | Light review: skim NeetCode patterns cheat sheet + SD notes | ⬜ |
-| Sat | Rest or light review. Prepare logistics for interviews | ⬜ |
+| Mon | Re-solve 3 problems you previously got wrong (no hints) | ⬜ |
+| Tue | Timed coding mock: 2 mediums in 50 minutes | ⬜ |
+| Wed | Timed SD mock: any Hard, deliver in 35 min | ⬜ |
+| Thu | Behavioral: rehearse all STAR stories + project deep-dives aloud | ⬜ |
+| Fri | Light review: skim patterns cheat sheet + SD notes | ⬜ |
+| Sat | **Mock interview #4–5** (final confidence builders) | ⬜ |
 | Sun | **Rest.** You're ready. | ⬜ |
 
 ---
 
-## System Design Progression Summary
+## Polish Day Checklist (Week 6)
 
-| Week | Topic | Problems |
-|------|-------|----------|
-| 1 | Delivery Framework + Core Concepts | Bitly |
-| 2 | Key Technologies | Dropbox |
-| 3 | Common Patterns | Yelp |
-| 4 | Scaling & Databases | Ticketmaster |
-| 5 | Full practice (Medium) | Instagram, WhatsApp |
-| 6 | Full practice (Medium) | Rate Limiter, YouTube |
-| 7 | Full practice (Medium) | Notification System, Distributed Cache |
-| 8 | Full practice (Hard) | Uber, Job Scheduler |
-| 9 | Hard problems | Google Docs, Ad Click Aggregator |
-| 10 | Hard problems | Payment System, Metrics Monitoring |
-| 11–12 | Full timed mocks | Web Crawler, Robinhood, FB News Feed |
+> One dedicated Sunday mid-plan to get non-coding prep in shape.
+
+- [ ] **Resume:** Update to 1 page. Quantify every bullet (%, $, latency, users)
+- [ ] **LinkedIn:** Update headline, summary, and experience to match resume
+- [ ] **STAR stories:** Review and refine all 8 stories in [BEHAVIORAL_PREP.md](./BEHAVIORAL_PREP.md)
+- [ ] **Project deep-dives:** Fill out both Project A and B templates in BEHAVIORAL_PREP.md
+- [ ] **"Why this company?"** draft: Write 2–3 sentences per target company
+
+---
+
+## System Design Progression
+
+| Week | Theory | Practice |
+|------|--------|----------|
+| 1 | Delivery Framework + Core Concepts | Bitly (Easy) |
+| 2 | Key Technologies | Dropbox (Easy) |
+| 3 | Common Patterns | Yelp (Easy) |
+| 4 | Scaling deep-dive | Ticketmaster (Med) |
+| 5 | — | Instagram, WhatsApp (Med) |
+| 6 | — | Rate Limiter, YouTube (Med) |
+| 7 | — | Notification System, Distributed Cache (Med) |
+| 8 | — | Uber (Hard), Job Scheduler (Med) |
+| 9 | — | Google Docs, Ad Click Aggregator (Hard) |
+| 10 | — | Payment System, Metrics Monitoring (Hard) |
+| 11–12 | — | Web Crawler, FB News Feed (timed mocks) |
+
+---
+
+## Problem Count & Feasibility Check
+
+| Metric | Value |
+|--------|-------|
+| Total DSA problems | **~96** (2/day × 4 days × 10 weeks + reviews + timed) |
+| Avg time per problem | **35–45 min** (including journal entry) |
+| Daily DSA commitment | **70–90 min** ✅ fits 1–1.5 hrs |
+| System Design problems | **17** |
+| Mock interviews | **5** (research shows this doubles pass rate) |
+| STAR stories | **8** |
+| Days over 90 min | **0** ✅ |
 
 ---
 
 ## Key Principles
 
-1. **Active recall > passive reading** — Always attempt problems before watching solutions
-2. **Spaced repetition** — Re-solve problems you struggled with 3–7 days later
-3. **Time yourself** — By Week 8+, solve mediums in <25 min, hards in <40 min
-4. **Verbalize** — Practice explaining your approach out loud (crucial for interviews)
-5. **Track progress** — Mark NeetCode problems as complete; aim for 100% by Week 10
+1. **Max 2 new problems per DSA day** — quality over volume
+2. **Timebox at 25 min** — if stuck, study the pattern, then re-implement from memory
+3. **Spaced repetition** — re-solve failed problems at Day 3 and Day 7
+4. **Verbalize** — explain your approach out loud as if in an interview
+5. **Skip exotic DP** — low ROI unless targeting Google. Focus on core DP patterns only
+6. **5 mock interviews minimum** — doubles your pass rate (interviewing.io data)
+7. **Journal every problem** — use `journal/week-XX.md` to track patterns & mistakes
 
 ---
 
@@ -211,6 +256,8 @@ Prepare STAR stories for these themes (1 per theme minimum):
 - [ ] Dealt with ambiguity / changed direction
 - [ ] Improved a process or system
 - [ ] Cross-team collaboration
+
+👉 **Fill out project deep-dives in [BEHAVIORAL_PREP.md](./BEHAVIORAL_PREP.md)**
 
 ---
 
