@@ -1,20 +1,8 @@
-# Week 7 — Backtracking & Tries
+# Milestone 8 — DP Essentials
 
-## Backtracking
+## 1-D Dynamic Programming
 
-### 1. Subsets (Med)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Combination Sum (Med)
+### 1. Climbing Stairs (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Permutations (Med)
+### 2. House Robber (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Word Search (Med)
+### 3. Coin Change (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -50,7 +38,7 @@
 
 ---
 
-### 5. Combination Sum II (Med)
+### 4. Word Break (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -62,7 +50,7 @@
 
 ---
 
-### 6. Palindrome Partitioning (Med)
+### 5. Longest Increasing Subsequence (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -74,9 +62,7 @@
 
 ---
 
-## Tries
-
-### 7. Implement Trie (Med)
+### 6. Longest Palindromic Substring (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -88,7 +74,9 @@
 
 ---
 
-### 8. Design Add and Search Words (Med)
+## 2-D Dynamic Programming
+
+### 7. Unique Paths (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -100,9 +88,7 @@
 
 ---
 
-## System Design — Notification System & Distributed Cache
-
-### Notification System (Medium)
+### 8. Longest Common Subsequence (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -114,7 +100,21 @@
 
 ---
 
-### Distributed Cache (Medium)
+## System Design — Uber & Job Scheduler
+
+### Uber (Hard)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Job Scheduler (Medium)
 
 | Field | Notes |
 |-------|-------|

@@ -1,20 +1,8 @@
-# Week 3 — Stack & Binary Search
+# Milestone 4 — Linked List & Trees (Easy/Med)
 
-## Stack
+## Linked List
 
-### 1. Valid Parentheses (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Min Stack (Med)
+### 1. Reverse Linked List (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Evaluate Reverse Polish Notation (Med)
+### 2. Merge Two Sorted Lists (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Generate Parentheses (Med)
+### 3. Linked List Cycle (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -50,9 +38,7 @@
 
 ---
 
-## Binary Search
-
-### 5. Binary Search (Easy)
+### 4. Reorder List (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -64,7 +50,9 @@
 
 ---
 
-### 6. Search a 2D Matrix (Med)
+## Trees
+
+### 5. Invert Binary Tree (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -76,7 +64,7 @@
 
 ---
 
-### 7. Koko Eating Bananas (Med)
+### 6. Max Depth of Binary Tree (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -88,7 +76,7 @@
 
 ---
 
-### 8. Find Min in Rotated Sorted Array (Med)
+### 7. Same Tree (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -100,9 +88,33 @@
 
 ---
 
-## System Design — Yelp
+### 8. Subtree of Another Tree (Easy)
 
-### Yelp (Easy)
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 9. Lowest Common Ancestor (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Ticketmaster
+
+### Ticketmaster (Medium)
 
 | Field | Notes |
 |-------|-------|

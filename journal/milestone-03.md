@@ -1,20 +1,8 @@
-# Week 6 — Graphs (High Priority)
+# Milestone 3 — Stack & Binary Search
 
-## Graphs
+## Stack
 
-### 1. Number of Islands (Med)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Clone Graph (Med)
+### 1. Valid Parentheses (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Pacific Atlantic Water Flow (Med)
+### 2. Min Stack (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Course Schedule (Med)
+### 3. Evaluate Reverse Polish Notation (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -50,7 +38,7 @@
 
 ---
 
-### 5. Course Schedule II (Med)
+### 4. Generate Parentheses (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -62,7 +50,9 @@
 
 ---
 
-### 6. Graph Valid Tree (Med)
+## Binary Search
+
+### 5. Binary Search (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -74,7 +64,7 @@
 
 ---
 
-### 7. Rotting Oranges (Med)
+### 6. Search a 2D Matrix (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -86,7 +76,7 @@
 
 ---
 
-### 8. Surrounded Regions (Med)
+### 7. Koko Eating Bananas (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -98,9 +88,7 @@
 
 ---
 
-## System Design — Rate Limiter & YouTube
-
-### Rate Limiter (Medium)
+### 8. Find Min in Rotated Sorted Array (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -112,7 +100,9 @@
 
 ---
 
-### YouTube (Medium)
+## System Design — Yelp
+
+### Yelp (Easy)
 
 | Field | Notes |
 |-------|-------|

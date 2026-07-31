@@ -1,20 +1,8 @@
-# Week 4 — Linked List & Trees (Easy/Med)
+# Milestone 10 — Bit Manipulation, Math & Review
 
-## Linked List
+## Bit Manipulation
 
-### 1. Reverse Linked List (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Merge Two Sorted Lists (Easy)
+### 1. Single Number (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Linked List Cycle (Easy)
+### 2. Number of 1 Bits (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Reorder List (Med)
+### 3. Counting Bits (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -50,21 +38,9 @@
 
 ---
 
-## Trees
+## Math & Geometry
 
-### 5. Invert Binary Tree (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 6. Max Depth of Binary Tree (Easy)
+### 4. Rotate Image (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -76,7 +52,7 @@
 
 ---
 
-### 7. Same Tree (Easy)
+### 5. Spiral Matrix (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -88,7 +64,9 @@
 
 ---
 
-### 8. Subtree of Another Tree (Easy)
+## Spaced Repetition Re-solves
+
+### Re-solve: (trees/graphs — write problem name here)
 
 | Field | Notes |
 |-------|-------|
@@ -100,7 +78,7 @@
 
 ---
 
-### 9. Lowest Common Ancestor (Med)
+### Re-solve: (trees/graphs — write problem name here)
 
 | Field | Notes |
 |-------|-------|
@@ -112,9 +90,45 @@
 
 ---
 
-## System Design — Ticketmaster
+### Re-solve: (DP/backtracking — write problem name here)
 
-### Ticketmaster (Medium)
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Re-solve: (DP/backtracking — write problem name here)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Payment System & Metrics Monitoring
+
+### Payment System (Hard)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Metrics Monitoring (Hard)
 
 | Field | Notes |
 |-------|-------|

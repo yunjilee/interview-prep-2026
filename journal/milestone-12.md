@@ -1,20 +1,8 @@
-# Week 5 — Trees (Med) & Heap
+# Milestone 12 — Final Polish & Confidence
 
-## Trees (continued)
+## Final Re-solves (no hints)
 
-### 1. BFS Level Order Traversal (Med)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Validate BST (Med)
+### Re-solve #1: ___
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Kth Smallest Element in BST (Med)
+### Re-solve #2: ___
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Serialize and Deserialize Binary Tree (Hard)
+### Re-solve #3: ___
 
 | Field | Notes |
 |-------|-------|
@@ -50,21 +38,9 @@
 
 ---
 
-## Heap / Priority Queue
+## Timed Mocks
 
-### 5. Kth Largest Element (Med)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 6. Last Stone Weight (Easy)
+### Timed coding mock: Medium #1 (25 min)
 
 | Field | Notes |
 |-------|-------|
@@ -76,7 +52,7 @@
 
 ---
 
-### 7. K Closest Points to Origin (Med)
+### Timed coding mock: Medium #2 (25 min)
 
 | Field | Notes |
 |-------|-------|
@@ -88,33 +64,7 @@
 
 ---
 
-### 8. Task Scheduler (Med)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-## System Design — Instagram & WhatsApp
-
-### Instagram (Medium)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### WhatsApp (Medium)
+### Timed SD mock: Hard (35 min)
 
 | Field | Notes |
 |-------|-------|

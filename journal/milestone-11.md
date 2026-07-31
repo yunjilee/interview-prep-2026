@@ -1,20 +1,8 @@
-# Week 8 — DP Essentials
+# Milestone 11 — Timed Practice & Mocks
 
-## 1-D Dynamic Programming
+## Timed DSA Practice
 
-### 1. Climbing Stairs (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. House Robber (Med)
+### Timed Medium #1 (25 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Coin Change (Med)
+### Timed Medium #2 (25 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Word Break (Med)
+### Timed Medium #3 (25 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -50,7 +38,7 @@
 
 ---
 
-### 5. Longest Increasing Subsequence (Med)
+### Timed Medium #4 (25 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -62,7 +50,7 @@
 
 ---
 
-### 6. Longest Palindromic Substring (Med)
+### Timed Hard #1 (40 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -74,9 +62,7 @@
 
 ---
 
-## 2-D Dynamic Programming
-
-### 7. Unique Paths (Med)
+### Timed Medium #5 (25 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -88,7 +74,7 @@
 
 ---
 
-### 8. Longest Common Subsequence (Med)
+### Timed Medium #6 (25 min) — topic: ___
 
 | Field | Notes |
 |-------|-------|
@@ -100,9 +86,9 @@
 
 ---
 
-## System Design — Uber & Job Scheduler
+## System Design — Web Crawler & FB News Feed
 
-### Uber (Hard)
+### Web Crawler (Hard) — timed 35 min
 
 | Field | Notes |
 |-------|-------|
@@ -114,7 +100,7 @@
 
 ---
 
-### Job Scheduler (Medium)
+### FB News Feed (Medium) — timed 35 min
 
 | Field | Notes |
 |-------|-------|

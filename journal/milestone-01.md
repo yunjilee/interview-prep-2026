@@ -1,20 +1,8 @@
-# Week 10 — Bit Manipulation, Math & Review
+# Milestone 1 — Warm-Up: Arrays & Hashing
 
-## Bit Manipulation
+## Arrays & Hashing
 
-### 1. Single Number (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Number of 1 Bits (Easy)
+### 1. Contains Duplicate (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Counting Bits (Easy)
+### 2. Valid Anagram (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -38,9 +26,7 @@
 
 ---
 
-## Math & Geometry
-
-### 4. Rotate Image (Med)
+### 3. Two Sum (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -52,7 +38,7 @@
 
 ---
 
-### 5. Spiral Matrix (Med)
+### 4. Anagram Groups (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -64,9 +50,7 @@
 
 ---
 
-## Spaced Repetition Re-solves
-
-### Re-solve: (trees/graphs — write problem name here)
+### 5. Top K Frequent Elements (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -78,7 +62,7 @@
 
 ---
 
-### Re-solve: (trees/graphs — write problem name here)
+### 6. Encode/Decode Strings (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -90,7 +74,7 @@
 
 ---
 
-### Re-solve: (DP/backtracking — write problem name here)
+### 7. Product of Array Except Self (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -102,7 +86,7 @@
 
 ---
 
-### Re-solve: (DP/backtracking — write problem name here)
+### 8. Longest Consecutive Sequence (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -114,21 +98,9 @@
 
 ---
 
-## System Design — Payment System & Metrics Monitoring
+## System Design — Bitly
 
-### Payment System (Hard)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### Metrics Monitoring (Hard)
+### Bitly (Easy)
 
 | Field | Notes |
 |-------|-------|

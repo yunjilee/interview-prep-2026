@@ -1,20 +1,8 @@
-# Week 1 — Warm-Up: Arrays & Hashing
+# Milestone 5 — Trees (Med) & Heap
 
-## Arrays & Hashing
+## Trees (continued)
 
-### 1. Contains Duplicate (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Valid Anagram (Easy)
+### 1. BFS Level Order Traversal (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Two Sum (Easy)
+### 2. Validate BST (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Anagram Groups (Med)
+### 3. Kth Smallest Element in BST (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -50,7 +38,7 @@
 
 ---
 
-### 5. Top K Frequent Elements (Med)
+### 4. Serialize and Deserialize Binary Tree (Hard)
 
 | Field | Notes |
 |-------|-------|
@@ -62,7 +50,9 @@
 
 ---
 
-### 6. Encode/Decode Strings (Med)
+## Heap / Priority Queue
+
+### 5. Kth Largest Element (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -74,7 +64,7 @@
 
 ---
 
-### 7. Product of Array Except Self (Med)
+### 6. Last Stone Weight (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -86,7 +76,7 @@
 
 ---
 
-### 8. Longest Consecutive Sequence (Med)
+### 7. K Closest Points to Origin (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -98,9 +88,33 @@
 
 ---
 
-## System Design — Bitly
+### 8. Task Scheduler (Med)
 
-### Bitly (Easy)
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Instagram & WhatsApp
+
+### Instagram (Medium)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### WhatsApp (Medium)
 
 | Field | Notes |
 |-------|-------|

@@ -1,20 +1,8 @@
-# Week 9 — Greedy & Intervals
+# Milestone 6 — Graphs (High Priority)
 
-## Greedy
+## Graphs
 
-### 1. Maximum Subarray (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Jump Game (Med)
+### 1. Number of Islands (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. Jump Game II (Med)
+### 2. Clone Graph (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Gas Station (Med)
+### 3. Pacific Atlantic Water Flow (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -50,9 +38,7 @@
 
 ---
 
-## Intervals
-
-### 5. Merge Intervals (Med)
+### 4. Course Schedule (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -64,7 +50,7 @@
 
 ---
 
-### 6. Insert Interval (Med)
+### 5. Course Schedule II (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -76,7 +62,7 @@
 
 ---
 
-### 7. Non-Overlapping Intervals (Med)
+### 6. Graph Valid Tree (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -88,7 +74,7 @@
 
 ---
 
-### 8. Meeting Rooms II (Med)
+### 7. Rotting Oranges (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -100,9 +86,7 @@
 
 ---
 
-## System Design — Google Docs & Ad Click Aggregator
-
-### Google Docs (Hard)
+### 8. Surrounded Regions (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -114,7 +98,21 @@
 
 ---
 
-### Ad Click Aggregator (Hard)
+## System Design — Rate Limiter & YouTube
+
+### Rate Limiter (Medium)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### YouTube (Medium)
 
 | Field | Notes |
 |-------|-------|

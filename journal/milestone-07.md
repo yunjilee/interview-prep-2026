@@ -1,20 +1,8 @@
-# Week 2 — Two Pointers & Sliding Window
+# Milestone 7 — Backtracking & Tries
 
-## Two Pointers
+## Backtracking
 
-### 1. Valid Palindrome (Easy)
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### 2. Two Sum II (Med)
+### 1. Subsets (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### 3. 3Sum (Med)
+### 2. Combination Sum (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### 4. Container With Most Water (Med)
+### 3. Permutations (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -50,9 +38,7 @@
 
 ---
 
-## Sliding Window
-
-### 5. Best Time to Buy & Sell Stock (Easy)
+### 4. Word Search (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -64,7 +50,7 @@
 
 ---
 
-### 6. Longest Substring Without Repeating (Med)
+### 5. Combination Sum II (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -76,7 +62,7 @@
 
 ---
 
-### 7. Longest Repeating Char Replacement (Med)
+### 6. Palindrome Partitioning (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -88,7 +74,9 @@
 
 ---
 
-### 8. Permutation in String (Med)
+## Tries
+
+### 7. Implement Trie (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -100,9 +88,33 @@
 
 ---
 
-## System Design — Dropbox
+### 8. Design Add and Search Words (Med)
 
-### Dropbox (Easy)
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Notification System & Distributed Cache
+
+### Notification System (Medium)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Distributed Cache (Medium)
 
 | Field | Notes |
 |-------|-------|

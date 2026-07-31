@@ -1,20 +1,8 @@
-# Week 11 — Timed Practice & Mocks
+# Milestone 9 — Greedy & Intervals
 
-## Timed DSA Practice
+## Greedy
 
-### Timed Medium #1 (25 min) — topic: ___
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### Timed Medium #2 (25 min) — topic: ___
+### 1. Maximum Subarray (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### Timed Medium #3 (25 min) — topic: ___
+### 2. Jump Game (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,7 +26,7 @@
 
 ---
 
-### Timed Medium #4 (25 min) — topic: ___
+### 3. Jump Game II (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -50,7 +38,7 @@
 
 ---
 
-### Timed Hard #1 (40 min) — topic: ___
+### 4. Gas Station (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -62,7 +50,9 @@
 
 ---
 
-### Timed Medium #5 (25 min) — topic: ___
+## Intervals
+
+### 5. Merge Intervals (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -74,7 +64,7 @@
 
 ---
 
-### Timed Medium #6 (25 min) — topic: ___
+### 6. Insert Interval (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -86,9 +76,7 @@
 
 ---
 
-## System Design — Web Crawler & FB News Feed
-
-### Web Crawler (Hard) — timed 35 min
+### 7. Non-Overlapping Intervals (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -100,7 +88,33 @@
 
 ---
 
-### FB News Feed (Medium) — timed 35 min
+### 8. Meeting Rooms II (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Google Docs & Ad Click Aggregator
+
+### Google Docs (Hard)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### Ad Click Aggregator (Hard)
 
 | Field | Notes |
 |-------|-------|

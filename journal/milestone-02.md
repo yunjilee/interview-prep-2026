@@ -1,20 +1,8 @@
-# Week 12 — Final Polish & Confidence
+# Milestone 2 — Two Pointers & Sliding Window
 
-## Final Re-solves (no hints)
+## Two Pointers
 
-### Re-solve #1: ___
-
-| Field | Notes |
-|-------|-------|
-| **Pattern** | |
-| **Initial idea** | |
-| **Optimal solution** | |
-| **Mistake / gotcha** | |
-| **Interview-ready?** | ⬜ Yes / ⬜ No |
-
----
-
-### Re-solve #2: ___
+### 1. Valid Palindrome (Easy)
 
 | Field | Notes |
 |-------|-------|
@@ -26,7 +14,7 @@
 
 ---
 
-### Re-solve #3: ___
+### 2. Two Sum II (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -38,9 +26,7 @@
 
 ---
 
-## Timed Mocks
-
-### Timed coding mock: Medium #1 (25 min)
+### 3. 3Sum (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -52,7 +38,7 @@
 
 ---
 
-### Timed coding mock: Medium #2 (25 min)
+### 4. Container With Most Water (Med)
 
 | Field | Notes |
 |-------|-------|
@@ -64,7 +50,59 @@
 
 ---
 
-### Timed SD mock: Hard (35 min)
+## Sliding Window
+
+### 5. Best Time to Buy & Sell Stock (Easy)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 6. Longest Substring Without Repeating (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 7. Longest Repeating Char Replacement (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+### 8. Permutation in String (Med)
+
+| Field | Notes |
+|-------|-------|
+| **Pattern** | |
+| **Initial idea** | |
+| **Optimal solution** | |
+| **Mistake / gotcha** | |
+| **Interview-ready?** | ⬜ Yes / ⬜ No |
+
+---
+
+## System Design — Dropbox
+
+### Dropbox (Easy)
 
 | Field | Notes |
 |-------|-------|
