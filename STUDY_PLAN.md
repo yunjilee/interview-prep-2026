@@ -101,6 +101,7 @@
 | Tue | Trees: Kth Smallest in BST, Serialize/Deserialize *(Med + Hard)* | ⬜ |
 | Wed | Heap: Kth Largest Element, Last Stone Weight *(Med + Easy)* | ⬜ |
 | Thu | Heap: K Closest Points, Task Scheduler *(Med)* | ⬜ |
+| | **Bonus:** Rotate Image, Spiral Matrix *(Med)* — do one per day if time allows | |
 | Fri | SD: Practice **Instagram** (Medium) — timed 45 min | ⬜ |
 | Sat | SD: Practice **WhatsApp** (Medium) | ⬜ |
 | Sun | Review + re-solve flagged. Draft 2 more STAR stories (target: 8) | ⬜ |
@@ -136,7 +137,7 @@
 | Thu | 2-D DP: Unique Paths, Longest Common Subsequence *(Med)* | ⬜ |
 | Fri | SD: Practice **Uber** (Hard) | ⬜ |
 | Sat | SD: Practice **Job Scheduler** (Medium) | ⬜ |
-| Sun | Review Phase 2. Update journal. Identify 5 weakest problems | ⬜ |
+| Sun | **Mock interview #1** (DSA + SD, 90 min, peer or Pramp). Review Phase 2 | ⬜ |
 
 ---
 
@@ -151,20 +152,20 @@
 | Thu | Intervals: Non-Overlapping Intervals, Meeting Rooms II *(Med)* | ⬜ |
 | Fri | SD: Practice **Google Docs** (Hard) | ⬜ |
 | Sat | SD: Practice **Ad Click Aggregator** (Hard) | ⬜ |
-| Sun | **Mock interview #1** (DSA + SD, 90 min, peer or Pramp) | ⬜ |
+| Sun | **Mock interview #2** (DSA + SD, peer or Pramp) | ⬜ |
 
 ### Week 10 — Bit Manipulation, Math & Spaced Repetition
 | Day | Task | Done |
 |-----|------|:----:|
 | Mon | Bit Manipulation: Single Number, Number of 1 Bits, Counting Bits *(Easy)* | ⬜ |
-| Tue | Math: Rotate Image, Spiral Matrix *(Med)* | ⬜ |
+| Tue | Re-solve 2 flagged problems (arrays/sliding window) — timed 25 min each | ⬜ |
 | Wed | Re-solve 2 flagged problems (trees/graphs) — timed 25 min each | ⬜ |
 | Thu | Re-solve 2 flagged problems (DP/backtracking) — timed 25 min each | ⬜ |
 | Fri | SD: Practice **Payment System** (Hard) | ⬜ |
 | Sat | SD: Practice **Metrics Monitoring** (Hard) | ⬜ |
-| Sun | **Mock interview #2** (peer or Pramp) | ⬜ |
+| Sun | **Mock interview #3** (peer or Pramp) | ⬜ |
 
-### Week 11 — Timed Practice & Mocks
+### Week 11— Timed Practice & Mocks
 | Day | Task | Done |
 |-----|------|:----:|
 | Mon | Timed: 2 random Mediums, 25 min each | ⬜ |
@@ -173,7 +174,7 @@
 | Thu | Timed: 2 random Mediums, 25 min each | ⬜ |
 | Fri | SD: Timed mock — **Web Crawler** (Hard), 35 min | ⬜ |
 | Sat | SD: Timed mock — **FB News Feed** (Medium), 35 min | ⬜ |
-| Sun | **Mock interview #3** + behavioral mock | ⬜ |
+| Sun | **Mock interview #4** + behavioral mock | ⬜ |
 
 ### Week 12 — Final Polish & Confidence
 | Day | Task | Done |
@@ -183,7 +184,7 @@
 | Wed | Timed SD mock: any Hard, deliver in 35 min | ⬜ |
 | Thu | Behavioral: rehearse all STAR stories + project deep-dives aloud | ⬜ |
 | Fri | Light review: skim patterns cheat sheet + SD notes | ⬜ |
-| Sat | **Mock interview #4–5** (final confidence builders) | ⬜ |
+| Sat | **Mock interview #5** (final confidence builder) | ⬜ |
 | Sun | **Rest.** You're ready. | ⬜ |
 
 ---
@@ -194,6 +195,8 @@
 
 - [ ] **Resume:** Update to 1 page. Quantify every bullet (%, $, latency, users)
 - [ ] **LinkedIn:** Update headline, summary, and experience to match resume
+- [ ] **Self intro:** Craft a 60-second intro ([guide](https://www.techinterviewhandbook.org/self-introduction/))
+- [ ] **Final questions:** Prepare 3–5 questions to ask interviewers ([guide](https://www.techinterviewhandbook.org/final-questions/))
 - [ ] **STAR stories:** Review and refine all 8 stories in [BEHAVIORAL_PREP.md](./BEHAVIORAL_PREP.md)
 - [ ] **Project deep-dives:** Fill out both Project A and B templates in BEHAVIORAL_PREP.md
 - [ ] **"Why this company?"** draft: Write 2–3 sentences per target company
