@@ -47,6 +47,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 > Milestone 1 is intentionally easy. You're relearning how to think about problems.
 
 ### Milestone 1 — Arrays & Hashing (Easy focus)
+> 📺 Refresh: [NeetCode DSA — Arrays](https://neetcode.io/courses/dsa-for-beginners/2) + [Hashing](https://neetcode.io/courses/dsa-for-beginners/26)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -59,6 +60,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review any struggled problems. Read [15 LC Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) overview | ⬜ |
 
 ### Milestone 2 — Two Pointers & Sliding Window
+> 📺 Refresh: [NeetCode Advanced — Sliding Window](https://neetcode.io/courses/advanced-algorithms/1)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -71,6 +73,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review + re-solve 2 hardest problems from Milestones 1–2. Draft 2 STAR stories | ⬜ |
 
 ### Milestone 3 — Stack & Binary Search
+> 📺 Refresh: [NeetCode DSA — Stacks](https://neetcode.io/courses/dsa-for-beginners/4) + [Binary Search](https://neetcode.io/courses/dsa-for-beginners/13)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -83,6 +86,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review + re-solve flagged problems. Draft 2 more STAR stories (total: 4) | ⬜ |
 
 ### Milestone 4 — Linked List & Trees (Easy/Med)
+> 📺 Refresh: [NeetCode DSA — Linked Lists](https://neetcode.io/courses/dsa-for-beginners/5) + [Trees](https://neetcode.io/courses/dsa-for-beginners/15)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -99,6 +103,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 ## Phase 2: Core Patterns
 
 ### Milestone 5 — Trees (Med) & Heap
+> 📺 Refresh: [NeetCode DSA — Heap / Priority Queue](https://neetcode.io/courses/dsa-for-beginners/22)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -112,6 +117,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 8 | Review + re-solve flagged. Draft 2 more STAR stories (target: 8) | ⬜ |
 
 ### Milestone 6 — Graphs (HIGH PRIORITY)
+> 📺 Refresh: [NeetCode DSA — Graphs](https://neetcode.io/courses/dsa-for-beginners/27)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -124,6 +130,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | **🔧 POLISH DAY** — see [Polish Day Checklist](#polish-day-checklist) below | ⬜ |
 
 ### Milestone 7 — Backtracking & Tries
+> 📺 Refresh: [NeetCode DSA — Backtracking](https://neetcode.io/courses/dsa-for-beginners/21) + [Advanced — Tries](https://neetcode.io/courses/advanced-algorithms/5)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -136,6 +143,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review + re-solve 3 hardest graph/backtracking problems | ⬜ |
 
 ### Milestone 8 — DP Essentials (skip hard/exotic DP)
+> 📺 Refresh: [NeetCode DSA — Dynamic Programming](https://neetcode.io/courses/dsa-for-beginners/32)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -152,6 +160,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 ## Phase 3: Sharpen & Mock
 
 ### Milestone 9 — Greedy & Intervals
+> 📺 Refresh: [NeetCode Advanced — Kadane's / Greedy](https://neetcode.io/courses/advanced-algorithms/0)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -164,6 +173,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | **Mock interview #2** (DSA + SD, peer or Pramp) | ⬜ |
 
 ### Milestone 10 — Bit Manipulation & Spaced Repetition
+> 📺 Refresh: [NeetCode DSA — Bit Manipulation](https://neetcode.io/courses/dsa-for-beginners/34)
 
 | # | Task | Done |
 |---|------|:----:|
