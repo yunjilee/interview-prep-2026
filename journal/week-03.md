@@ -1,5 +1,21 @@
 # Week 3 — Binary Search & Linked List
 
+## Weekly Accountability Tracker
+
+| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
+|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
+| **Hours studied** | | | | | | | | |
+| **DSA problems solved** | | | | | | | | |
+| **Problems re-solved** | | | | | | | | |
+| **SD time (hrs)** | | | | | | | | |
+| **Behavioral prep** | | | | | | | | |
+| **Mock interview?** | | | | | | | | |
+
+> **Week 3 goal:** ___  |  **Confidence (1–5):** ___
+
+---
+
+
 ## DSA Journal
 
 <!-- Copy this template for each problem you solve -->

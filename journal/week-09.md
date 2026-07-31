@@ -1,5 +1,21 @@
 # Week 9 — Advanced Graphs, Greedy & Intervals
 
+## Weekly Accountability Tracker
+
+| Metric | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
+|--------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
+| **Hours studied** | | | | | | | | |
+| **DSA problems solved** | | | | | | | | |
+| **Problems re-solved** | | | | | | | | |
+| **SD time (hrs)** | | | | | | | | |
+| **Behavioral prep** | | | | | | | | |
+| **Mock interview?** | | | | | | | | |
+
+> **Week 9 goal:** ___  |  **Confidence (1–5):** ___
+
+---
+
+
 ## DSA Journal
 
 <!-- Copy this template for each problem you solve -->
