@@ -51,7 +51,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 
 | # | Task | Done |
 |---|------|:----:|
-| 1 | Arrays: Contains Duplicate, Valid Anagram *(both Easy)* | ⬜ |
+| 1 | Arrays: Contains Duplicate, Valid Anagram *(both Easy)* | ✅ |
 | 2 | Arrays: Two Sum, Anagram Groups *(Easy + Med)* | ✅ |
 | 3 | Arrays: Top K Frequent Elements, Encode/Decode Strings *(Med)* | ✅ |
 | 4 | Arrays: Product of Array Except Self, Longest Consecutive *(Med)* | ⬜ |
