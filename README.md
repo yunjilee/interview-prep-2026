@@ -21,7 +21,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 
 | Area | Primary Resource | Supplement |
 |------|-----------------|------------|
-| DSA | [NeetCode 150](https://neetcode.io/practice) + [NeetCode YouTube](https://youtube.com/@NeetCode) | [Grind 75](https://www.techinterviewhandbook.org/grind75) for tracking |
+| DSA | [Blind 75](https://neetcode.io/practice/practice/blind75) | [Grind 75](https://www.techinterviewhandbook.org/grind75) for tracking |
 | System Design | [Hello Interview — In a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) | [Problem Breakdowns](https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare) |
 | Behavioral | [BEHAVIORAL_PREP.md](./BEHAVIORAL_PREP.md) — structured templates | Amazon LP examples |
 | Mock Interviews | [Pramp](https://pramp.com) or peer mocks (target: 5+ total) | Hello Interview Guided Practice |
@@ -42,12 +42,16 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 
 ---
 
+## Overall Progress
+
+![Overall study progress](assets/progress.svg)
+
 ## Phase 1: Foundations — Rebuild Muscle Memory
 
 > Milestone 1 is intentionally easy. You're relearning how to think about problems.
 
 ### Milestone 1 — Arrays & Hashing (Easy focus)
-> 📺 Refresh: [NeetCode DSA — Arrays](https://neetcode.io/courses/dsa-for-beginners/2) + [Hashing](https://neetcode.io/courses/dsa-for-beginners/26)
+> 📺 Refresh: [NeetCode — Blind 75 Solutions](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -60,7 +64,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review any struggled problems. Read [15 LC Patterns](https://blog.algomaster.io/p/15-leetcode-patterns) overview | ⬜ |
 
 ### Milestone 2 — Two Pointers & Sliding Window
-> 📺 Refresh: [NeetCode Advanced — Sliding Window](https://neetcode.io/courses/advanced-algorithms/1)
+> 📺 Refresh: [NeetCode — Sliding Window](https://www.youtube.com/playlist?list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -73,7 +77,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review + re-solve 2 hardest problems from Milestones 1–2. Draft 2 STAR stories | ⬜ |
 
 ### Milestone 3 — Stack & Binary Search
-> 📺 Refresh: [NeetCode DSA — Stacks](https://neetcode.io/courses/dsa-for-beginners/4) + [Binary Search](https://neetcode.io/courses/dsa-for-beginners/13)
+> 📺 Refresh: [NeetCode — Stack Problems](https://www.youtube.com/playlist?list=PLot-Xpze53lfxD6l5pAGvCD4nPvWKU8Qo) + [Binary Search](https://www.youtube.com/playlist?list=PLot-Xpze53leNZQd0iINpD-MAhMOMzWvO)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -86,7 +90,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review + re-solve flagged problems. Draft 2 more STAR stories (total: 4) | ⬜ |
 
 ### Milestone 4 — Linked List & Trees (Easy/Med)
-> 📺 Refresh: [NeetCode DSA — Linked Lists](https://neetcode.io/courses/dsa-for-beginners/5) + [Trees](https://neetcode.io/courses/dsa-for-beginners/15)
+> 📺 Refresh: [NeetCode — Linked Lists](https://www.youtube.com/playlist?list=PLot-Xpze53leU0Ec0VkBhnf4npMRFiNcB) + [Trees](https://www.youtube.com/playlist?list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -103,7 +107,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 ## Phase 2: Core Patterns
 
 ### Milestone 5 — Trees (Med) & Heap
-> 📺 Refresh: [NeetCode DSA — Heap / Priority Queue](https://neetcode.io/courses/dsa-for-beginners/22)
+> 📺 Refresh: [William Fiset — Priority Queue](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsCLFSHm1nYb9daYf60lCcag)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -117,7 +121,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 8 | Review + re-solve flagged. Draft 2 more STAR stories (target: 8) | ⬜ |
 
 ### Milestone 6 — Graphs (HIGH PRIORITY)
-> 📺 Refresh: [NeetCode DSA — Graphs](https://neetcode.io/courses/dsa-for-beginners/27)
+> 📺 Refresh: [NeetCode — Graph Problems](https://www.youtube.com/playlist?list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -130,7 +134,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | **🔧 POLISH DAY** — see [Polish Day Checklist](#polish-day-checklist) below | ⬜ |
 
 ### Milestone 7 — Backtracking & Tries
-> 📺 Refresh: [NeetCode DSA — Backtracking](https://neetcode.io/courses/dsa-for-beginners/21) + [Advanced — Tries](https://neetcode.io/courses/advanced-algorithms/5)
+> 📺 Refresh: [NeetCode — Backtracking](https://www.youtube.com/playlist?list=PLot-Xpze53lf5C3HSjCnyFghlW0G1HHXo) + [Implement Trie](https://www.youtube.com/watch?v=oobqoCJlHA0)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -143,7 +147,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | Review + re-solve 3 hardest graph/backtracking problems | ⬜ |
 
 ### Milestone 8 — DP Essentials (skip hard/exotic DP)
-> 📺 Refresh: [NeetCode DSA — Dynamic Programming](https://neetcode.io/courses/dsa-for-beginners/32)
+> 📺 Refresh: [NeetCode — Dynamic Programming](https://www.youtube.com/playlist?list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -160,7 +164,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 ## Phase 3: Sharpen & Mock
 
 ### Milestone 9 — Greedy & Intervals
-> 📺 Refresh: [NeetCode Advanced — Kadane's / Greedy](https://neetcode.io/courses/advanced-algorithms/0)
+> 📺 Refresh: [NeetCode — Kadane's Algorithm](https://www.youtube.com/watch?v=6nfXFnfUCec) + [Take U Forward — Greedy Algorithms](https://www.youtube.com/playlist?list=PLgUwDviBIf0rF1w2Koyh78zafB0cz7tea)
 
 | # | Task | Done |
 |---|------|:----:|
@@ -173,7 +177,7 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 | 7 | **Mock interview #2** (DSA + SD, peer or Pramp) | ⬜ |
 
 ### Milestone 10 — Bit Manipulation & Spaced Repetition
-> 📺 Refresh: [NeetCode DSA — Bit Manipulation](https://neetcode.io/courses/dsa-for-beginners/34)
+> 📺 Refresh: [NeetCode — Number of 1 Bits](https://www.youtube.com/watch?v=5Km3utixwZs)
 
 | # | Task | Done |
 |---|------|:----:|

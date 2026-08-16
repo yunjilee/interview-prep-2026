@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="58" role="img" aria-label="3 of 84 tasks complete, 4 percent">
+  <title>Overall study progress: 3 of 84 tasks complete (4%)</title>
+  <rect width="640" height="58" rx="10" fill="#ffffff"/>
+  <rect x="20" y="14" width="600" height="30" rx="8" fill="#d0d7de"/>
+  <clipPath id="progress-clip">
+    <rect x="20" y="14" width="600" height="30" rx="8"/>
+  </clipPath>
+  <rect x="20" y="14" width="21.43" height="30" fill="#2da44e" clip-path="url(#progress-clip)"/>
+  <text x="320" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600" fill="#24292f">3 / 84 tasks (4%)</text>
+</svg>
