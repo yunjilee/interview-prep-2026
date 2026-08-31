@@ -68,8 +68,8 @@ No dates. No calendar. If you miss days (vacation, life), nothing shifts — jus
 
 | # | Task | Done |
 |---|------|:----:|
-| 1 | Two Pointers: Valid Palindrome, Two Sum II *(Easy + Med)* | ⬜ |
-| 2 | Two Pointers: 3Sum, Container With Most Water *(Med)* | ⬜ |
+| 1 | Two Pointers: Valid Palindrome, Two Sum II *(Easy + Med)* | ✅ |
+| 2 | Two Pointers: 3Sum, Container With Most Water *(Med)* | ✅ |
 | 3 | Sliding Window: Best Time to Buy Stock, Longest Substring Without Repeating *(Easy + Med)* | ⬜ |
 | 4 | Sliding Window: Longest Repeating Char Replacement, Permutation in String *(Med)* | ⬜ |
 | 5 | SD: Read [Key Technologies](https://www.hellointerview.com/learn/system-design/in-a-hurry/key-technologies) | ⬜ |
